@@ -5,4 +5,4 @@
 - ~/Downloads/{*.pdf} ->  ~/Pdfs/{*.pdf}
 - ~/Downloads/{*.exe} ->  ~/Executables/{*.exe}
 
-### Run main to wait for u to dowwnload something and then do the redirection
+### Run main to wait for u to download something and then do the redirection
